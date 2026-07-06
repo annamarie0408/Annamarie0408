@@ -56,29 +56,6 @@ currently:    Learning PenTesting and Governance
 
 ---
 
-### `> ./pinned_projects.sh`
-
-<div align="center">
-
-<!-- Swap REPO_NAME_1 / REPO_NAME_2 for your actual repo names -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=annamarie0408&repo=Powershells&theme=algolia&bg_color=0d0208&title_color=00ff41&icon_color=8b0000&text_color=c9d1d9&border_color=8b0000" width="47%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=annamarie0408&repo=IntuneScripts&theme=algolia&bg_color=0d0208&title_color=00ff41&icon_color=8b0000&text_color=c9d1d9&border_color=8b0000" width="47%" />
-
-</div>
-
-
----
-
-### `> contact --info`
-
-<div align="center">
-
-![https://annamarie0408.github.io/](https://img.shields.io/badge/-GitHub-0d0208?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d0208)
-[https://www.linkedin.com/in/annamboyer/](https://img.shields.io/badge/-LinkedIn-0d0208?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d0208)
-<!-- Add more: LinkedIn, email, etc.
-     ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0208?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d0208) -->
-
-</div>
 
 ---
 
