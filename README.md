@@ -36,8 +36,8 @@ currently:    Learning PenTesting and Governance
 
 **`> currently_learning`**
 
-![PenTest](https://img.shields.io/badge/-Security%20Scanning-3a0000?style=flat-square&color=3a0000)
-![Goverance](https://img.shields.io/badge/-CI%2FCD-3a0000?style=flat-square&color=3a0000)
+![PenTest](https://img.shields.io/badge/-Pentesting-3a0000?style=flat-square&color=3a0000)
+![Goverance](https://img.shields.io/badge/-Governance-3a0000?style=flat-square&color=3a0000)
 ![Threat Hunting](https://img.shields.io/badge/-Threat%20Hunting-3a0000?style=flat-square&color=3a0000)
 
 </div>
@@ -73,8 +73,8 @@ currently:    Learning PenTesting and Governance
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/-GitHub-0d0208?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d0208)
-[LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0208?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d0208)
+![https://annamarie0408.github.io/](https://img.shields.io/badge/-GitHub-0d0208?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d0208)
+[https://www.linkedin.com/in/annamboyer/](https://img.shields.io/badge/-LinkedIn-0d0208?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d0208)
 <!-- Add more: LinkedIn, email, etc.
      ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d0208?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d0208) -->
 
